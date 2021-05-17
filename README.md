@@ -8,7 +8,9 @@ Step 3 : npm install
 
 Step 4 : open terminal and run below command
       
+      
    $ json-server -p 3006 -w movies.json
+   
       
 Step 5 : open another terminal and run below command also
        
